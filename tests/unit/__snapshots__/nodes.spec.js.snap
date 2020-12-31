@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Nodes /> match the snapshot 1`] = `
+<div class="d-flex flex-column blocks-wrapper">
+  <h1 class="main-title">Nodes</h1>
+  <v-row-stub tag="div" justify="center" class="accordion">
+    <v-expansion-panels-stub activeclass="v-item--active" accordion="true">
+      <node-stub node="[object Object]"></node-stub>
+    </v-expansion-panels-stub>
+    <v-expansion-panels-stub activeclass="v-item--active" accordion="true">
+      <node-stub node="[object Object]"></node-stub>
+    </v-expansion-panels-stub>
+    <v-expansion-panels-stub activeclass="v-item--active" accordion="true">
+      <node-stub node="[object Object]"></node-stub>
+    </v-expansion-panels-stub>
+    <v-expansion-panels-stub activeclass="v-item--active" accordion="true">
+      <node-stub node="[object Object]"></node-stub>
+    </v-expansion-panels-stub>
+  </v-row-stub>
+</div>
+`;
